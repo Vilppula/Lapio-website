@@ -1,6 +1,16 @@
-h1 {color: blue;}
+h1 {color: blue;
+    margin-top: 1em;
+    padding-top: 1em;
+}
 h2 {color: rgb(179, 40, 40);}
 h3 {color: rgb(179, 40, 40);}
-p {color: rgb(182, 35, 35); }
 li {color:mediumorchid}
 #jatkuu-teksti {color: red;}
+body {
+    color:rgb(75, 73, 73);
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 150%;
+    padding: 4em 1em;
+}
